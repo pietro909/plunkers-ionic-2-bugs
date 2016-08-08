@@ -1,0 +1,1 @@
+You can use this template to show examples of your Ionic 2 issue.
